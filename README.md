@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I ask claude to make random thing. 
 https://lolwa-coder.github.io/dew-drunk-portfolio/
-I ask claude to make random thing.
+
